@@ -6,7 +6,7 @@ The **Zomato Dashboard in Power BI** is a data analytics project designed to ana
 
 The project uses Power BI to transform raw restaurant data into interactive visualizations that support data-driven decision-making.
 
-![preview](Screenshotzomato.png)
+![preview](Preview_dashboard.png)
 
 ## 🎯 Objectives
 
